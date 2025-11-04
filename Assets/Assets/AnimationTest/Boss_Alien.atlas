@@ -1,0 +1,286 @@
+
+Boss_Alien.png
+size: 1370,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AlienL__fingertip_3
+  rotate: false
+  xy: 1315, 154
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Alien_R_fingertip_3
+  rotate: false
+  xy: 1315, 154
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Alien_L_arm
+  rotate: false
+  xy: 557, 42
+  size: 89, 194
+  orig: 89, 194
+  offset: 0, 0
+  index: -1
+Alien_R_arm
+  rotate: false
+  xy: 557, 42
+  size: 89, 194
+  orig: 89, 194
+  offset: 0, 0
+  index: -1
+Alien_L_eye
+  rotate: false
+  xy: 1078, 24
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Alien_L_eye_alt
+  rotate: true
+  xy: 633, 3
+  size: 37, 56
+  orig: 39, 58
+  offset: 1, 1
+  index: -1
+Alien_L_fingertip2_1
+  rotate: false
+  xy: 1181, 86
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Alien_R_fingertip2_1
+  rotate: false
+  xy: 1181, 86
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Alien_L_fingertip2_2
+  rotate: true
+  xy: 1181, 67
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Alien_R_fingertip2_2
+  rotate: true
+  xy: 1181, 67
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Alien_L_fingertip2_3
+  rotate: false
+  xy: 1181, 48
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Alien_R_fingertip2_3
+  rotate: false
+  xy: 1181, 48
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Alien_L_fingertip_1
+  rotate: false
+  xy: 1299, 112
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Alien_L_fingertip_3
+  rotate: true
+  xy: 1273, 112
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+Alien_L_foot
+  rotate: true
+  xy: 1125, 32
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Alien_L_leg
+  rotate: false
+  xy: 488, 20
+  size: 67, 216
+  orig: 67, 216
+  offset: 0, 0
+  index: -1
+Alien_R_leg
+  rotate: false
+  xy: 488, 20
+  size: 67, 216
+  orig: 67, 216
+  offset: 0, 0
+  index: -1
+Alien_L_lowerlid
+  rotate: false
+  xy: 557, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Alien_L_upperlid
+  rotate: true
+  xy: 877, 12
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Alien_R_eye
+  rotate: false
+  xy: 1023, 19
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Alien_R_fingertip_1
+  rotate: false
+  xy: 1322, 126
+  size: 20, 26
+  orig: 21, 26
+  offset: 1, 0
+  index: -1
+Alien_R_fingertip_2
+  rotate: false
+  xy: 1141, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Alien_R_foot
+  rotate: true
+  xy: 1315, 182
+  size: 54, 53
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Alien_R_lowerlid
+  rotate: true
+  xy: 1273, 140
+  size: 96, 40
+  orig: 96, 41
+  offset: 0, 1
+  index: -1
+Alien_R_upperlid
+  rotate: true
+  xy: 1202, 3
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+Alien_fill_altblack
+  rotate: false
+  xy: 1168, 105
+  size: 103, 131
+  orig: 103, 131
+  offset: 0, 0
+  index: -1
+Alien_fingertip_2
+  rotate: false
+  xy: 1337, 154
+  size: 20, 26
+  orig: 20, 27
+  offset: 0, 1
+  index: -1
+Alien_head
+  rotate: false
+  xy: 2, 3
+  size: 242, 233
+  orig: 242, 233
+  offset: 0, 0
+  index: -1
+Alien_head_alt
+  rotate: false
+  xy: 246, 3
+  size: 240, 233
+  orig: 242, 235
+  offset: 1, 1
+  index: -1
+Alien_slime
+  rotate: false
+  xy: 784, 3
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+Alien_slime 2
+  rotate: false
+  xy: 691, 2
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+Alien_slime_eye
+  rotate: true
+  xy: 648, 58
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Alien_slime_eye 2
+  rotate: true
+  xy: 1163, 4
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Alien_slime_highlight
+  rotate: false
+  xy: 1078, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Alien_slime_highlight 2
+  rotate: false
+  xy: 1110, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Alien_slime_inner
+  rotate: true
+  xy: 968, 18
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+Alien_slime_inner 2
+  rotate: true
+  xy: 912, 18
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Alien_torso
+  rotate: true
+  xy: 648, 87
+  size: 149, 259
+  orig: 149, 259
+  offset: 0, 0
+  index: -1
+Alien_torso_alt
+  rotate: true
+  xy: 909, 89
+  size: 147, 257
+  orig: 149, 259
+  offset: 1, 1
+  index: -1
+Alien_torso_altblack
+  rotate: true
+  xy: 1236, 6
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
