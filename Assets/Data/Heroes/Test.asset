@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3164a3485d48b0d4cb459b79aae27b86, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: Assembly-CSharp::HeroData
-  <Image>k__BackingField: {fileID: 21300000, guid: 75dca85a080987f4cbf4a16127f6eb91, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: b8d5177d3ec9481478dfde9d17735724, type: 3}
   <Health>k__BackingField: 44
   <Deck>k__BackingField:
   - {fileID: 11400000, guid: a3d39ba3a56c11644a8dab8d141ff785, type: 2}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1882d3deff4ea345b8a848e9dc4dcd9, type: 3}
   m_Name: RedSlime
   m_EditorClassIdentifier: Assembly-CSharp::EnemyData
-  <Image>k__BackingField: {fileID: 21300000, guid: f6f78477dc80adc4c821a3f1036fcdd3, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 3b9afc02bf148d541a08574dc76934fb, type: 3}
   <Health>k__BackingField: 26
   <AttackPower>k__BackingField: 6
